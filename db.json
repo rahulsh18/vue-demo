@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Wake up",
+      "day": "July 4th at 10am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Eat",
+      "day": "July 4th at 12pm",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Sleep",
+      "day": "July 4th at 2pm",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Repeat",
+      "day": "July 4th at 3pm",
+      "reminder": true
+    }
+  ]
+}
